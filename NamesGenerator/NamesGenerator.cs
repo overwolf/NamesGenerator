@@ -15,7 +15,6 @@ namespace System.Text {
             "awesome",
             "berserk",
             "big",
-            "boring",
             "clever",
             "compassionate",
             "condescending",
@@ -354,9 +353,6 @@ namespace System.Text {
 
 		    // Kay McNulty - one of the original programmers of the ENIAC. https://en.wikipedia.org/wiki/ENIAC - https://en.wikipedia.org/wiki/Kathleen_Antonelli
 		    "mcnulty",
-
-		    // Lise Meitner - Austrian/Swedish physicist who was involved in the discovery of nuclear fission. The element meitnerium is named after her - https://en.wikipedia.org/wiki/Lise_Meitner
-		    "meitner",
 
 		    // Carla Meninsky, was the game designer and programmer for Atari 2600 games Dodge 'Em and Warlords. https://en.wikipedia.org/wiki/Carla_Meninsky
 		    "meninsky",
