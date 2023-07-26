@@ -550,7 +550,7 @@ namespace System.Text {
           this.left[this.rnd.Next(left.Length)],
           this.right[this.rnd.Next(right.Length)]);
       if (retry) {
-        name = String.Format(culture, "{0}{1}", name, rnd.Next(10));
+        name = String.Format(culture, "{0}{1}", name, rnd.Next(100));
       }
       return name;
     }
