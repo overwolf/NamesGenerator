@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>$id$</id>
+    <id>$id$-Overwolf</id>
     <version>1.0.1</version>
     <title>$title$ - Overwolf fork</title>
     <authors>$author$</authors>
